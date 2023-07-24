@@ -1,4 +1,4 @@
-# Confident-Interval-AQI 🌱
+# Built a Confidence Interval of AQI Dataset 🌱
 
 The Air Quality Index (AQI) is the Environmental Protection Agency's index for reporting air quality. A value close to 0 signals little to no public health concern, while higher values are associated with increased risk to public health. The United States is considering a new federal policy that would create a subsidy for renewable energy in states observing an average AQI of 10 or above.
 
