@@ -4,7 +4,7 @@ The Air Quality Index (AQI) is the Environmental Protection Agency's index for r
 
 You've just started your new role as a data analyst in the Strategy division of Ripple Renewable Energy (RRE). RRE operates in the following U.S. states: **California, Florida, Michigan, Ohio, Pennsylvania, Texas**. You've been tasked with constructing an analysis which identifies which of these states are most likely to be affected, should the new federal policy be enacted.
 
-### Your manager has requested that you do the following for your analysis:
+## Following for analysis:
 
 *  Provide a summary of the mean AQI for the states in which RRE operates.
 *  Construct a boxplot visualization for AQI of these states using seaborn.
